@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SEM | Wanting Xiang</title>
+    <link>https://xiang-wt.github.io/tags/sem/</link>
+      <atom:link href="https://xiang-wt.github.io/tags/sem/index.xml" rel="self" type="application/rss+xml" />
+    <description>SEM</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xiang-wt.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>SEM</title>
+      <link>https://xiang-wt.github.io/tags/sem/</link>
+    </image>
+    
+    <item>
+      <title>Survey on the cognition and willingness to pay for ecological compensation in the Yellow River Basin</title>
+      <link>https://xiang-wt.github.io/project/pytorch/</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://xiang-wt.github.io/project/pytorch/</guid>
+      <description>&lt;h2 id=&#34;-abstract&#34;&gt;🌍 Abstract&lt;/h2&gt;
+&lt;p&gt;This project investigates the &lt;strong&gt;cognitive level and payment willingness of residents&lt;/strong&gt; toward ecological compensation policies in the Yellow River Basin. Through large-scale fieldwork across 7 provinces and 28 cities, we collected and analyzed 2,617 valid questionnaires using &lt;strong&gt;CVM (Contingent Valuation Method)&lt;/strong&gt;, &lt;strong&gt;Probit regression&lt;/strong&gt;, and &lt;strong&gt;Structural Equation Modeling (SEM)&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://xiang-wt.github.io/files/diaoyan.jpg&#34; alt=&#34;Survey&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Our findings revealed that while residents demonstrate clear ecological awareness and willingness to contribute financially, their understanding of compensation policies remains limited. Key influencing factors include satisfaction with the ecological environment, personal characteristics, and perceived governmental support.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://xiang-wt.github.io/files/SEM.jpg&#34; alt=&#34;SEM&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;This work was awarded the &lt;strong&gt;National Second Prize&lt;/strong&gt; in the &lt;strong&gt;&amp;ldquo;Challenge Cup&amp;rdquo; Competition&lt;/strong&gt; , and has been compiled into a paper result (&lt;strong&gt;Manuscript&lt;/strong&gt;).&lt;/p&gt;
+&lt;h2 id=&#34;-project-video&#34;&gt;🎥 Project Video&lt;/h2&gt;
+&lt;video controls width=&#34;100%&#34;&gt;
+  &lt;source src=&#34;https://xiang-wt.github.io/files/intro.mp4&#34; type=&#34;video/mp4&#34;&gt;  
+&lt;/video&gt;
+&lt;h2 id=&#34;-key-contributions&#34;&gt;💡 Key Contributions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed a comprehensive questionnaire based on CVM theory.&lt;/li&gt;
+&lt;li&gt;Collected data through in-depth interviews, offline/online surveys (n=2617).&lt;/li&gt;
+&lt;li&gt;Built statistical models (Probit, SEM) to quantify willingness-to-pay drivers.&lt;/li&gt;
+&lt;li&gt;Proposed targeted ecological compensation policy recommendations.&lt;/li&gt;
+&lt;li&gt;Recognized at national level award.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-award&#34;&gt;🏆 Award&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;National Second Prize&lt;/strong&gt; · The 17th &amp;ldquo;Challenge Cup&amp;rdquo; National Undergraduate Extracurricular Academic and Technological Works Competition&lt;/p&gt;
+&lt;h2 id=&#34;-project-duration&#34;&gt;📅 Project Duration&lt;/h2&gt;
+&lt;p&gt;September 2020 – March 2022&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

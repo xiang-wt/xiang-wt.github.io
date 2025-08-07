@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mask R-CNN | Wanting Xiang</title>
+    <link>https://xiang-wt.github.io/tags/mask-r-cnn/</link>
+      <atom:link href="https://xiang-wt.github.io/tags/mask-r-cnn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mask R-CNN</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xiang-wt.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Mask R-CNN</title>
+      <link>https://xiang-wt.github.io/tags/mask-r-cnn/</link>
+    </image>
+    
+    <item>
+      <title>Automatic detection method of pharyngeal region based on convolutional neural network</title>
+      <link>https://xiang-wt.github.io/project/pandas/</link>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://xiang-wt.github.io/project/pandas/</guid>
+      <description>&lt;h2 id=&#34;-abstract&#34;&gt;🔍 Abstract&lt;/h2&gt;
+&lt;p&gt;This project proposes a CNN-based method for automatic detection of the pharyngeal region, focusing on key structures such as tonsils and the uvula. I independently reproduced the full &lt;strong&gt;Mask R-CNN&lt;/strong&gt; model using PyTorch, with a ResNet50 + FPN backbone.&lt;/p&gt;
+&lt;p&gt;The training dataset of 585 oral images was &lt;strong&gt;collected and labeled&lt;/strong&gt; to define five distinct regions. Through extensive experiments, I performed &lt;strong&gt;multiple rounds of hyperparameter tuning&lt;/strong&gt; (learning rate, batch size, anchor ratios) to improve model accuracy and generalization.&lt;/p&gt;
+&lt;p&gt;The final model achieved &lt;strong&gt;0.99 mAP&lt;/strong&gt; at IoU=0.5 and performed robustly on 100 unseen images with an average segmentation accuracy of &lt;strong&gt;92.1%&lt;/strong&gt;. This work demonstrates strong potential in supporting intelligent swab sampling in clinical environments.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://xiang-wt.github.io/files/loss.jpg&#34; alt=&#34;Loss&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;-key-contributions&#34;&gt;💡 Key Contributions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Independently reproduced the full Mask R-CNN architecture using PyTorch.&lt;/li&gt;
+&lt;li&gt;Collected and labeled 585 oral images.&lt;/li&gt;
+&lt;li&gt;Conducted iterative hyperparameter tuning to optimize performance.&lt;/li&gt;
+&lt;li&gt;Achieved high segmentation precision and strong generalization to new samples.&lt;/li&gt;
+&lt;li&gt;Combining engineering implementation with medical scene requirements&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-project-period&#34;&gt;📅 Project Period&lt;/h2&gt;
+&lt;p&gt;December 2022 – June 2023&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article-Journal | Wanting Xiang</title>
+    <link>https://xiang-wt.github.io/publication_types/article-journal/</link>
+      <atom:link href="https://xiang-wt.github.io/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Article-Journal</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xiang-wt.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Article-Journal</title>
+      <link>https://xiang-wt.github.io/publication_types/article-journal/</link>
+    </image>
+    
+    <item>
+      <title>Development and Validation of an Interpretable Machine Learning Model for Predicting Tic Disorders and Severity in Children Based on Electroencephalogram Data</title>
+      <link>https://xiang-wt.github.io/publication/conference-paper/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://xiang-wt.github.io/publication/conference-paper/</guid>
+      <description>&lt;p&gt;We proposed a novel EEG-based two-stage diagnosis framework for Tic Disorders (TD) that aligns with clinical processes by first identifying disease presence and then assessing severity. To address segment-level inconsistency across subjects, we developed an individual-based feature-weighted integration module that aggregates EEG segments into robust subject-level representations. Additionally, we introduced a SHAP-driven Feature Selection and Weighting (SFSW) strategy that goes beyond binary selection by assigning interpretable weights to features, enabling fine-grained control and improved model performance. Together, these innovations enhanced individual-level prediction accuracy, model generalizability, and interpretability in real clinical contexts.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://xiang-wt.github.io/files/figure2.png&#34; alt=&#34;Model overview&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Our interpretability analysis revealed that abnormalities in the β band of the P3 channel and the γ band of the C3 channel were key EEG biomarkers distinguishing TD from healthy controls, consistent with prior neurophysiological studies. Statistical features such as kurtosis and Hjorth complexity also contributed significantly, reflecting abnormal neuronal synchrony and signal irregularity. Spatially, central and parietal regions—particularly the motor cortex—were strongly associated with TD-related motor dysfunction. Additionally, age emerged as an important factor, supporting the neurodevelopmental nature of TD and its evolving EEG patterns with maturation.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://xiang-wt.github.io/files/figure4.png&#34; alt=&#34;Model Interpretability&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
